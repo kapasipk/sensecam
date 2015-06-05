@@ -3,3 +3,5 @@ docs
 db
 facesymmetry
 videos
+*.py~
+*.pyc

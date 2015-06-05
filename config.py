@@ -1,1 +1,1 @@
-count=1;emotion=7;
+count=1;emotion=1;
