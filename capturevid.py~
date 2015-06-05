@@ -43,9 +43,9 @@ while(quality!='1'):
 	cv2.destroyAllWindows()
 
 	quality = raw_input('Good enough? 0/1 \n') 
-count+=1
 if(emotion==7):
 	emotion=1
+	count+=1
 else:
 	emotion+=1
 # os.remove('count.py')

@@ -46,7 +46,7 @@ while(quality!='1'):
 if(emotion==7):
 	emotion=1
 	count+=1
-else:
+else:	
 	emotion+=1
 # os.remove('count.py')
 f=open('config.py','w')
